@@ -1,0 +1,28 @@
+.textarea-part{  
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Buttons{
+    
+    width: 50%;
+}
+.Buttons button,input{
+    margin-left: 34px;
+ 
+
+}
+button{
+    border-radius: 10px;
+    border: none;
+    padding: 10px 24px;
+    font-size: 15px;
+    margin: 10px 20px;
+    background: rgb(73 72 87);
+    color: white;
+    
+}
